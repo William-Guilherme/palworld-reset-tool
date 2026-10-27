@@ -323,4 +323,4 @@ opening a support request.
 
 ---
 
-*palworld-reset-tool · Updated 2026-10-26 · Shared under the MIT License*
+*palworld-reset-tool · Updated 2026-10-27 · Shared under the MIT License*
